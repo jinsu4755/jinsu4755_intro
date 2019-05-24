@@ -1,0 +1,12 @@
+@font-face { font-family: 'WONTitle'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/WONTitle.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+
+
+.profile{
+	width: 150px;
+	height: 150px;
+}
+
+p, h2, h3, h4{
+	font-family: WONTitle;
+}
